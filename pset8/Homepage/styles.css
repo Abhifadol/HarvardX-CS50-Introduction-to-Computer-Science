@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    font-family: verdana;
+    background-color: #ecf0f1;
+}
+
+ul {
+    display:table;
+    margin:0 auto;
+    text-align: left;
+}
+
+img {
+    width: 40%;
+    height: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#stock {
+    width: 50%;
+    height: 50%;
+}
+
+p {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h2 {
+    margin-top: 4%;
+}
+
+h1 {
+    margin-top: 2%;
+}
+
+#interest-box {
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+summary {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#get-back {
+    margin-top: 20px;
+}
