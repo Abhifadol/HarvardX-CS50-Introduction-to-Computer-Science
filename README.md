@@ -29,7 +29,7 @@
       * [Less](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset4/filter)
    * [Recover](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset4/recover)
 
-* [Problem Set 5](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset5) - [Assihnment 5](https://cs50.harvard.edu/x/2020/psets/5/speller/)
+* [Problem Set 5](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset5) - [Assignment 5](https://cs50.harvard.edu/x/2020/psets/5/speller/)
    * [Speller](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset5/speller)
 
 * [Problem Set 6](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset6) - [Assignment 6](https://cs50.harvard.edu/x/2020/psets/6/)
