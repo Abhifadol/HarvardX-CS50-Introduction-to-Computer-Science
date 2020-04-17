@@ -16,15 +16,15 @@
   * [Cash](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset1/cash.c)
   * [Credit](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset1/credit.c)
 
-* [Problem Set 2](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset2) - [Assignments 1](https://cs50.harvard.edu/x/2020/psets/2/)
+* [Problem Set 2](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset2) - [Assignments 2](https://cs50.harvard.edu/x/2020/psets/2/)
    * [Caesar](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset2/caesar)
    * [Vigenere](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset2/vigenere)
    * [Crack](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset2/crack.c)
 
-## Problem Set 3
-* Whodunit - Discover the hidden message in the image by changing all red pixels to white pixels.
-* Resize(less) - Resize a bitmap image by a factor of n to reduce its size.
-* Recover - Iterate over raw memory of data and extract images.
+* [Problem Set 3](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset3) - [Assignments 3](https://cs50.harvard.edu/x/2020/psets/3/)
+* [Whodunit](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset3/whodunit)
+* [Resize(less)](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset3/resize_less.c)
+* [Recover](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset3/recover.c)
 
 ## Problem Set 4
 * 
