@@ -7,7 +7,7 @@
 
 # Table Of Contents
 
-* Problem Set 0
+* [Problem Set 0](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset0) - [Assignments 0](https://cs50.harvard.edu/x/2020/psets/1/)
   * [Scratch](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset0/clappy%20bird%20by_Abhi.sb3) - A game implemented in Scratch, Can be accessed [hear](https://scratch.mit.edu/projects/385808656/).
 
 * Problem Set 1
