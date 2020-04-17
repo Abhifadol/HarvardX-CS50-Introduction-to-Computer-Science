@@ -4,7 +4,7 @@
 * Scratch - A game implemented in Scratch, Can be accessed [hear](https://scratch.mit.edu/projects/385808656/).
 
 * Problem Set 1
-** [Hello](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset1/hello.c)
+  * * [Hello](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset1/hello.c)
 * [Mario](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset1/mario.c)
 * [Cash](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset1/cash.c)
 * [Credit](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset1/credit.c)
