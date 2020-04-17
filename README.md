@@ -7,19 +7,19 @@
 
 # Table Of Contents
 
-* [Problem Set 0](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset0) - [Assignments 0](https://cs50.harvard.edu/x/2020/psets/1/)
+* [Problem Set 0](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset0) - [Assignments 0](https://cs50.harvard.edu/x/2020/weeks/0/)
   * [Scratch](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset0/clappy%20bird%20by_Abhi.sb3) - A game implemented in Scratch, Can be accessed [hear](https://scratch.mit.edu/projects/385808656/).
 
-* Problem Set 1
+* [Problem Set 1](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset1) - [Assignments 1](https://cs50.harvard.edu/x/2020/psets/1/)
   * [Hello](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset1/hello.c)
   * [Mario](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset1/mario.c)
   * [Cash](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset1/cash.c)
   * [Credit](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset1/credit.c)
 
-* Problem Set 2
-   * [Caesar](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset2/caesar) - Given a key(number), encrypt the input given as a commandline argument.
-   * [Vigenere](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset2/vigenere) - Given a key(string), encrypt the input given as a commandline argument.
-   * [Crack](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset2/crack.c) - Crack a max 5 letter password, given its input hash.
+* [Problem Set 2](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset2) - [Assignments 1](https://cs50.harvard.edu/x/2020/psets/2/)
+   * [Caesar](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset2/caesar)
+   * [Vigenere](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset2/vigenere)
+   * [Crack](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset2/crack.c)
 
 ## Problem Set 3
 * Whodunit - Discover the hidden message in the image by changing all red pixels to white pixels.
