@@ -1,13 +1,13 @@
 # HarvardX-CS50-Introduction-to-Computer-Science
 
-## Problem Set 0
-* Scratch - A game implemented in Scratch, Can be accessed [hear](https://scratch.mit.edu/projects/385808656/).
+* Problem Set 0
+  * Scratch - A game implemented in Scratch, Can be accessed [hear](https://scratch.mit.edu/projects/385808656/).
 
 * Problem Set 1
   * [Hello](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset1/hello.c)
-* [Mario](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset1/mario.c)
-* [Cash](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset1/cash.c)
-* [Credit](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset1/credit.c)
+  * [Mario](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset1/mario.c)
+  * [Cash](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset1/cash.c)
+  * [Credit](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset1/credit.c)
 
 ## Problem Set 2
 * Caesar - Given a key(number), encrypt the input given as a commandline argument.
