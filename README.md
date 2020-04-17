@@ -1,8 +1,7 @@
 # HarvardX-CS50-Introduction-to-Computer-Science
 
 ## Problem Set 0
-* Scratch - A game implemented in Scratch.http://github.com - automatic!
-[GitHub](http://github.com)
+* Scratch - A game implemented in Scratch, Can be accessed [hear](https://scratch.mit.edu/projects/385808656/).
 
 ## Problem Set 1
 * Hello - "Hello World" Program.
