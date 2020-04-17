@@ -31,19 +31,23 @@
       * [Less](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset4/filter)
    * [Recover](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset4/recover)
 
-## Problem Set 5
-* Speller - Two Spell Checker programs implemented using Hashtable and Trie.
+* [Problem Set 5](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset5) - [Assihnment 5](https://cs50.harvard.edu/x/2020/psets/5/speller/)
+   * [Speller](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset5/speller)
 
-## Problem Set 6
-* Hello.py - Re-implementation of Hello from pset1 using Python
-* Mario.py - Re-implementation of Mario from pset1 using Python.
-* 
-* Credit.py - Re-implementation of Credit from pset1 using Python.
-* 
+* [Problem Set 6](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset6) - [Assignment 6](https://cs50.harvard.edu/x/2020/psets/6/)
+   * [Hello](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset6/hello.py)
+   * Mario
+      * [Less](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset6/mario/less)
+      * [More](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset6/mario/more)
+   * [Cash](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset6/cash.py)
+   * [Credit](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset6/credit.py)
+   * [Readability](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset6/readability.py)
+   * [DNA](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset6/dna.py)
 
-## Problem Set 7
-* 
+* [Problem Set 7](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset7) - [Assignment 7](https://cs50.harvard.edu/x/2020/psets/7/)
+   * [Movies](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset7/movies)
+   * [Houses](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset7/houses)
 
-## Problem Set 8
-* Homepage - Design a simple Website using HTMlL,CSS and Bootstrap.
-* Finance - A Website where users can buy and sell stocks.
+* [Problem Set 8](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset8) - [Web Track](https://cs50.harvard.edu/x/2020/tracks/web/)
+   * [Homepage](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset8/Homepage)
+   * [Finance](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset8/finance)
