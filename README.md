@@ -22,9 +22,9 @@
    * [Crack](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset2/crack.c)
 
 * [Problem Set 3](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset3) - [Assignments 3](https://cs50.harvard.edu/x/2020/psets/3/)
-* [Whodunit](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset3/whodunit)
-* [Resize(less)](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset3/resize_less.c)
-* [Recover](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset3/recover.c)
+   * [Whodunit](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset3/whodunit)
+   * [Resize(less)](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset3/resize_less.c)
+   * [Recover](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset3/recover.c)
 
 ## Problem Set 4
 * 
