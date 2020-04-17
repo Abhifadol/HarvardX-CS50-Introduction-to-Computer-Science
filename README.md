@@ -1,4 +1,4 @@
 # HarvardX-CS50-Introduction-to-Computer-Science
 
 ## Problem Set 0
-* Scratch
+* Scratch - A game implemented in Scratch
