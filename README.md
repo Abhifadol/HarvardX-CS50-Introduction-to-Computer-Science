@@ -1,5 +1,7 @@
 # HarvardX-CS50-Introduction-to-Computer-Science
-###### I made this repository to post my solutions to Harvard University's [2020 CS50 intro course](https://www.edx.org/course/cs50s-introduction-to-computer-science) assignments and document my progress during the course. ###### You can find the materials for the course [here](https://cs50.harvard.edu/x/2020/) or look at the assignments specifications linked at right of every section in the table of contents. ###### Hope this is helpful to other students, you are free to contact me for any question or clarification. Every exercise in this repository scored 100% on submission.
+###### I made this repository to post my solutions to Harvard University's [2020 CS50 intro course](https://www.edx.org/course/cs50s-introduction-to-computer-science) assignments and document my progress during the course. 
+###### You can find the materials for the course [here](https://cs50.harvard.edu/x/2020/) or look at the assignments specifications linked at right of every section in the table of contents. 
+###### Hope this is helpful to other students, you are free to contact me for any question or clarification. Every exercise in this repository scored 100% on submission.
 
 # Table Of Contents
 
