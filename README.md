@@ -5,8 +5,8 @@
 
 ## Problem Set 1
 * [Hello](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset1/hello.c).
-* Mario - Two Versions(less and more comfortable).Progam to Print Pyramid like Mario Pattern.
-* Cash - Given a number, output the minumum number of coins it could take(Greedy Algorithm).
+* [Mario](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset1/mario.c).
+* [Cash](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset1/cash.c)
 * Credit - Given a number, determines whether input is a valid credit card number (using Lugn's algorithm) and it's type.
 
 ## Problem Set 2
