@@ -9,10 +9,10 @@
   * [Cash](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset1/cash.c)
   * [Credit](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset1/credit.c)
 
-## Problem Set 2
-* Caesar - Given a key(number), encrypt the input given as a commandline argument.
-* Vigenere - Given a key(string), encrypt the input given as a commandline argument.
-* Crack - Crack a max 5 letter password, given its input hash.
+* Problem Set 2
+   * [Caesar](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset2/caesar) - Given a key(number), encrypt the input given as a commandline argument.
+   * [Vigenere](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset2/vigenere) - Given a key(string), encrypt the input given as a commandline argument.
+   * [Crack](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/blob/master/pset2/crack.c) - Crack a max 5 letter password, given its input hash.
 
 ## Problem Set 3
 * Whodunit - Discover the hidden message in the image by changing all red pixels to white pixels.
