@@ -1,7 +1,8 @@
 # HarvardX-CS50-Introduction-to-Computer-Science
 
 ## Problem Set 0
-* Scratch - A game implemented in Scratch.
+* Scratch - A game implemented in Scratch.http://github.com - automatic!
+[GitHub](http://github.com)
 
 ## Problem Set 1
 * Hello - "Hello World" Program.
@@ -18,3 +19,23 @@
 * Whodunit - Discover the hidden message in the image by changing all red pixels to white pixels.
 * Resize(less) - Resize a bitmap image by a factor of n to reduce its size.
 * Recover - Iterate over raw memory of data and extract images.
+
+## Problem Set 4
+* 
+
+## Problem Set 5
+* Speller - Two Spell Checker programs implemented using Hashtable and Trie.
+
+## Problem Set 6
+* Hello.py - Re-implementation of Hello from pset1 using Python
+* Mario.py - Re-implementation of Mario from pset1 using Python.
+* 
+* Credit.py - Re-implementation of Credit from pset1 using Python.
+* 
+
+## Problem Set 7
+* 
+
+## Problem Set 8
+* Homepage - Design a simple Website using HTMlL,CSS and Bootstrap.
+* Finance - A Website where users can buy and sell stocks.
