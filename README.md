@@ -28,7 +28,7 @@
 
 * [Problem Set 4](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset4) - [Assignment 4](https://cs50.harvard.edu/x/2020/psets/4/)
    * filter
-      *[Less](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset4/filter)
+      * [Less](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset4/filter)
    * [Recover](https://github.com/Abhifadol/HarvardX-CS50-Introduction-to-Computer-Science/tree/master/pset4/recover)
 
 ## Problem Set 5
